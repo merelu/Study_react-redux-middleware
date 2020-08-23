@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/merelu/velopert_learn_react_redux_middleware.git",
+  "author": "GYUHA_HWANG <gyuha0310@gmail.com>",
+  "license": "MIT"
 }
